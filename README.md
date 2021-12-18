@@ -3,7 +3,7 @@
 - [2. Project Motivation](#project-motivation)
 - [3. File Descriptions](#file-descriptions)
 - [4. Results](#results)
-- [5. Licensing, Authors, and Acknowledgements][#licensing,]
+- [5. Licensing, Authors, and Acknowledgements](#licensing,)
 
 ## Installation
 Only standard libraries that came from Anaconda distribution of Python were used to run the code as listed below:
