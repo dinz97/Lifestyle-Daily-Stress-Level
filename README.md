@@ -23,6 +23,8 @@ There are 1 data file and 1 Jupyter notebook available to showcase work related 
 * Wellbeing_and_lifestyle_data_Kaggle.csv: This dataset contains 15,977 survey responses with 24 attributes describing how respondents live their lives.
 * Lifestyle&DailyStressLevel: Jupyter Notebook to prepare data and perform analysis.
 
+The notebook contains data exploration to answer questions mentioned above. Markdown cells were used to guide the thought process of the analysis.
+
 ## Results
 Summary of the key findings:
 1. Key Finding 1
