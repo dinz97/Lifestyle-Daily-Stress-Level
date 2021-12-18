@@ -3,7 +3,7 @@
 - [2. Project Motivation](#project-motivation)
 - [3. File Descriptions](#file-descriptions)
 - [4. Results](#results)
-- [5. Licensing, Authors, and Acknowledgements](#licensing,-authors,-and-acknowledgements)
+- [5. Licensing, Authors, and Acknowledgements][34]
 
 ## Installation
 Only standard libraries that came from Anaconda distribution of Python were used to run the code as listed below:
@@ -32,4 +32,4 @@ Summary of the key findings:
 3. Key Finding 3
 
 ## Licensing, Authors, and Acknowledgements
-Special credit for Kaggle user named Yvon Dalat for providing survey response from authentic-happiness.com. [Here](#http://www.authentic-happiness.com/your-life-satisfaction-score) is the link to the survey. You may also find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/ydalat/lifestyle-and-wellbeing-data).
+Special credit for Kaggle user named Yvon Dalat for providing survey response from authentic-happiness.com. [Here](http://www.authentic-happiness.com/your-life-satisfaction-score) is the link to the survey. You may also find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/ydalat/lifestyle-and-wellbeing-data).
