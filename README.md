@@ -33,5 +33,7 @@ Summary of the key findings:
 <img width="1500" alt="Screenshot 2021-12-19 222955" src="https://user-images.githubusercontent.com/74721418/146790511-6194a442-af40-4060-af41-a06dc6f3ad8a.png">
 3. There is a weak correlation between stress and satisfaction in life achievements. Stress potentially can motivate someone to achieve more in their lives.
 
+More information is available from a Medium article [here](https://medium.com/@snurdinie97/common-lifestyle-of-high-daily-stress-level-57bbb63da5b3).
+
 ## Licensing, Authors, and Acknowledgements
 Special credit for Kaggle user named Yvon Dalat for providing survey response from authentic-happiness.com. [Here](http://www.authentic-happiness.com/your-life-satisfaction-score) is the link to the survey. You may also find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/ydalat/lifestyle-and-wellbeing-data).
