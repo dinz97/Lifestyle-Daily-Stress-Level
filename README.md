@@ -27,9 +27,11 @@ The notebook contains data exploration to answer questions mentioned above. Mark
 
 ## Results
 Summary of the key findings:
-1. Key Finding 1
+1. Age group 36 to 50 has the highest proportion of high daily stress level.
+<img width="291" alt="Screenshot 2021-12-19 222816" src="https://user-images.githubusercontent.com/74721418/146790203-116daccd-c3d0-4d91-a501-7fca110435a3.png">
 2. Key Finding 2
-3. Key Finding 3
+
+5. Key Finding 3
 
 ## Licensing, Authors, and Acknowledgements
 Special credit for Kaggle user named Yvon Dalat for providing survey response from authentic-happiness.com. [Here](http://www.authentic-happiness.com/your-life-satisfaction-score) is the link to the survey. You may also find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/ydalat/lifestyle-and-wellbeing-data).
