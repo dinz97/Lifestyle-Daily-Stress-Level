@@ -14,9 +14,9 @@ Only standard libraries that came from Anaconda distribution of Python were used
 
 ## Project Motivation
 For this project, I was interested in using Lifestyle and Wellbeing survey response to better understand:
-1. At what age people experience high stress level?
-2. How is the lifestyle of person with high stress level?
-3. Is there any correlation between stress level and life achievements?
+1. At what age people experience high daily stress level?
+2. How is the lifestyle of person with high daily stress level?
+3. Is there any correlation between stress level and life achievements satifaction?
 
 ## File Descriptions
 There are 1 data file and 1 Jupyter notebook available to showcase work related to the above questions.
